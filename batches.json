@@ -1,0 +1,43 @@
+[
+    {
+        "count": 10,
+        "batchSize": 10000
+    },
+    {
+        "count": 20,
+        "batchSize": 10000
+    },
+    {
+        "count": 30,
+        "batchSize": 10000
+    },
+    {
+        "count": 40,
+        "batchSize": 10000
+    },
+    {
+        "count": 50,
+        "batchSize": 10000
+    },
+    {
+        "count": 60,
+        "batchSize": 10000
+    },
+    {
+        "count": 70,
+        "batchSize": 10000
+    },
+    {
+        "count": 80,
+        "batchSize": 10000
+    },
+    {
+        "count": 90,
+        "batchSize": 10000
+    },
+    {
+        "count": 100,
+        "batchSize": 10000
+    }
+
+]

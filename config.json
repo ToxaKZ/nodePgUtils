@@ -1,0 +1,17 @@
+{
+    "id": "elasticsearch",
+    "server": "http://localhost:9200",
+    "index": "analytics-test-xxxyyy",
+
+    "monitor": {
+        "interval": 15000,
+        "stop": 300000,
+        "saveTo": "results.json"
+    },
+
+    "node": {
+        "count": 1,
+        "batchSize": 25000,
+        "interval": 15000
+    }
+}

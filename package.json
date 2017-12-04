@@ -1,0 +1,23 @@
+{
+  "name": "elastic-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "docker-stats": "^0.7.2",
+    "elasticsearch": "^13.3.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "os-utils": "0.0.14",
+    "pg": "^7.4.0",
+    "pg-copy-streams": "^1.2.0",
+    "pidusage": "^1.2.0",
+    "through2": "^2.0.3"
+  }
+}
